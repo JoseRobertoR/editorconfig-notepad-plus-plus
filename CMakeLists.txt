@@ -1,3 +1,4 @@
+# TEST
 # this file is part of EditorConfig plugin for Notepad++
 # 
 # Copyright (C)2011-2012 EditorConfig Team <http://editorconfig.org>
@@ -16,6 +17,7 @@
 # along with this program; if not, write to the Free Software
 # Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
 # 
+
 
 cmake_minimum_required(VERSION 2.4.0)
 
